@@ -1,0 +1,31 @@
+.App {
+  text-align: center;
+  background-color: #282c34;
+  display: flex;
+  font-size: 15px;
+  color: white;
+  height: 200px;
+  width: 150px;
+}
+
+.box {
+background-color: #354057;
+color: #61dafb;
+height: 95vh;
+min-width: 50vw;
+}
+
+.settingbox {
+  margin-bottom: 30px;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+}
+
+.lefty {
+  margin-left: auto;
+  padding-right: 10vw;
+}
+.righty {
+  padding-left: 10vw;
+}
